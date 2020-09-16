@@ -2,9 +2,9 @@
 
 Commands used to run:
 
-'''npm run tsc'''
+```npm run tsc```
 
-'''node server/server.js'''
+```node server/server.js```
 
 
 The following request can be used to test part 1
