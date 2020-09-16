@@ -14,6 +14,7 @@ var TextReader = /** @class */ (function () {
         this.count();
         this.sort();
     }
+    // Returns the number of appearences that name makes
     TextReader.prototype.getNumApperances = function (name) {
         return this.dict[name];
     };

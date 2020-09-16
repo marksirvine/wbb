@@ -16,7 +16,7 @@ class TextReader{
         this.sort()
     }
 
-
+    // Returns the number of appearences that name makes
     public getNumApperances(name: string){
         return this.dict[name];
     }
